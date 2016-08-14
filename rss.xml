@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[manolo]]></title>
         <description><![CDATA[manolo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manolo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 18:42:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 18:44:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manolo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://vimeo.com/175830116</p>]]></description>
+            <link>https://thegrid.ai/manolo/httpsvimeocom175830116/index.html</link>
+            <guid isPermaLink="false">b673bfbf-55a6-419c-bdce-bbe219c18ac3</guid>
+            <pubDate>Sun, 14 Aug 2016 18:44:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b15d7bd8dba5ec42ce0a92706167cd6d/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616ac809033602f2d9baebd%2Ffile-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif"></article>]]></description>
+            <link>https://thegrid.ai/manolo/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">9967f66a-43a0-447f-b6ce-6a4b6d59bd61</guid>
             <pubDate>Sun, 14 Aug 2016 18:42:56 GMT</pubDate>
         </item>
